@@ -1,3 +1,3 @@
 # best-repo-ever
 this is the best repo ever
-this is the merge conflict test
+these are changes to the same line, for merge conflict
